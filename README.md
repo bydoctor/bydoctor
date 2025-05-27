@@ -3,7 +3,6 @@
 
 
 <p align="center">Open to Work
-<p align="center">I’m working on web development.</p>
 
 <p align="center"> How to reach me alper0695@gmail.com</p>
 
